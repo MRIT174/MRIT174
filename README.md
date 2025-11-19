@@ -5,6 +5,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm MINHAJUR RAHMAN</h1>
 <h3 align="center"> MERN Stack Developer | JavaScript Enthusiast | UI/UX Designer</h3>
+<h2 align="center"> About Me</h2>
+<p align="center"> 🚀 I’m a passionate developer who loves building modern web interfaces and exploring new technologies.
+<p>
+  <p align="center"> 💡 I enjoy solving user-centric problems and creating smooth digital experiences.
+
+<p>
 <p align="center">
 
 <hr>
