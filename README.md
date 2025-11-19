@@ -18,33 +18,41 @@
 
 <h2 align="left">Skills</h2>
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/27ba7a36-c177-40d2-9fee-a3ecb4351b36" />
+Programming Languages</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=js,php,py" />  </p>
 
-<h3 align="left">Frontend Development</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/1eb5be6b-a35d-47f6-8034-724763a55402" />
+Frontend Development</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />  </p>
 
-<h3 align="left">Backend Development</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/8657c13d-ad05-40f5-856f-b5bf977a7cc9" />
+Backend Development</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express" />  </p>
 
-<h3 align="left">Database</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/a26a56c7-5f7d-422c-8125-78027ca545b6" />
+Database</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=mongodb,mysql" />  </p>
 
-<h3 align="left">Backend as a Service</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/16f38bac-6041-4e0d-a2a3-0b90ade898d1" />
+Backend as a Service</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=firebase" />  </p>
 
-<h3 align="left">Software</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/372ca506-e9f6-431e-8872-bd8dcffbcb6f" />
+Software</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=ai,ps,figma,wordpress" />  </p>
 
 <h3 align="left">Static Site Generators</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=nextjs" />  </p>
 
-<h3 align="left">Other</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/ea8dce1d-85d4-40a3-9b7d-2a48f0cbcfc5" />
+Other</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=git,windows,vscode,ubuntu" />  </p>
 
 
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img width="30" align="center" alt="image" src="https://github.com/user-attachments/assets/d450c6b8-0791-4c21-8211-8ecf646a7558" />
+Connect with me:</h3>
 <p align="left"><a href="https://twitter.com/minhajur88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhajur88" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eng-minhajur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eng-minhajur-rahman/" height="30" width="40" /></a>
 <a href="https://kaggle.com/siam71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="siam71" height="30" width="40" /></a>
