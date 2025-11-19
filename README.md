@@ -8,3 +8,36 @@
 <p align="center">
 
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrit174&label=Profile%20views&color=0e75b6&style=flat" alt="mrit174" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eng-minhajur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eng-minhajur-rahman/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/mrsiam5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mrsiam5" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Programming Languages</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=js,php,py" />  </p>
+
+<h3 align="left">Frontend Development</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />  </p>
+
+<h3 align="left">Backend Development</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express" />  </p>
+
+<h3 align="left">Database</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=mongodb,mysql" />  </p>
+
+<h3 align="left">Backend as a Service</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=firebase" />  </p>
+
+<h3 align="left">Software</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=ai,ps,figma,wordpress" />  </p>
+
+<h3 align="left">Static Site Generators</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=nextjs" />  </p>
+
+<h3 align="left">Other</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,windows,vscode,ubuntu" />  </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrit174&show_icons=true&locale=en&layout=compact" alt="mrit174" /></p>
